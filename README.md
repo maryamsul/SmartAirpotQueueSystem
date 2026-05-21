@@ -32,7 +32,6 @@ SmartAirportQueueSystem/<br/>
 │   └── airport.csproj<br/>
 │<br/>
 ├── SmartAirportQueueDB.sql         ``` # Database schema ```<br/>
-├── script.sql                      ``` # Additional SQL scripts ``` <br/>
 ├── README.md<br/>
 └── LICENSE<br/>
 
